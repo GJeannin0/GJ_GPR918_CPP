@@ -1,0 +1,8 @@
+﻿  ConsoleApplication22.cpp
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(150): warning C4018: '>=' : incompatibilité signed/unsigned
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(187): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(189): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(206): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(207): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\guillaume\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(312): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+  ConsoleApplication22.vcxproj -> C:\Users\Guillaume\source\repos\ConsoleApplication22\Debug\ConsoleApplication22.exe

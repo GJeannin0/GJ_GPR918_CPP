@@ -151,6 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\Creature.h" />
+    <ClInclude Include="..\Food.h" />
+    <ClInclude Include="..\GameObject.h" />
+    <ClInclude Include="..\GameObjectBuilder.h" />
+    <ClInclude Include="..\map.h" />
+    <ClInclude Include="..\Simulation.h" />
+    <ClInclude Include="..\Vector2d.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

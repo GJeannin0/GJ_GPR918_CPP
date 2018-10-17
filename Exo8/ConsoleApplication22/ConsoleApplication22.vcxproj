@@ -161,6 +161,13 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\Creature.cpp" />
+    <ClCompile Include="..\Food.cpp" />
+    <ClCompile Include="..\GameObject.cpp" />
+    <ClCompile Include="..\GameObjectBuilder.cpp" />
+    <ClCompile Include="..\map.cpp" />
+    <ClCompile Include="..\Simulation.cpp" />
+    <ClCompile Include="..\Vector2d.cpp" />
     <ClCompile Include="ConsoleApplication22.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
